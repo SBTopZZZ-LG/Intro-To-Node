@@ -1,0 +1,19 @@
+{
+  "name": "node.js",
+  "version": "12.18.3",
+  "description": "Simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBTopZZZ-LG/Intro-To-Node.git"
+  },
+  "author": "Saumitra Topinkatti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SBTopZZZ-LG/Intro-To-Node/issues"
+  },
+  "homepage": "https://github.com/SBTopZZZ-LG/Intro-To-Node#readme"
+}
